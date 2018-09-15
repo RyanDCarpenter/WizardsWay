@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGES final project", "AGES final project.csproj", "{BCB29BA6-6D09-C276-3588-EE86B844D46F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGES final project.Editor", "AGES final project.Editor.csproj", "{50F8835A-AEC0-2869-3C36-4C4888C087D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB29BA6-6D09-C276-3588-EE86B844D46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB29BA6-6D09-C276-3588-EE86B844D46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB29BA6-6D09-C276-3588-EE86B844D46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB29BA6-6D09-C276-3588-EE86B844D46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F8835A-AEC0-2869-3C36-4C4888C087D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F8835A-AEC0-2869-3C36-4C4888C087D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F8835A-AEC0-2869-3C36-4C4888C087D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F8835A-AEC0-2869-3C36-4C4888C087D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

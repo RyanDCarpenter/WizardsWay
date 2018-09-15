@@ -1,0 +1,53 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+Platform assembly: D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Columbia College Chicago\Schoolwork\Fourth Semester\Advanced Game Engine Scripting\AGES-SP17\AGES final project\Wizard'sWayBuild\Wizard'sWay_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 14.321394 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.159614 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 765.
+Total: 9.679416 ms (FindLiveObjects: 0.044642 ms CreateObjectMapping: 0.034370 ms MarkObjects: 7.264795 ms  DeleteObjects: 2.334816 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.684247 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 887.
+Total: 0.323555 ms (FindLiveObjects: 0.047802 ms CreateObjectMapping: 0.021333 ms MarkObjects: 0.220444 ms  DeleteObjects: 0.033580 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.815408 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1361.
+Total: 0.446420 ms (FindLiveObjects: 0.092049 ms CreateObjectMapping: 0.024888 ms MarkObjects: 0.291555 ms  DeleteObjects: 0.037530 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.880988 ms
+
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 498.
+Total: 1.514667 ms (FindLiveObjects: 0.049382 ms CreateObjectMapping: 0.035555 ms MarkObjects: 0.351605 ms  DeleteObjects: 1.077729 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 41c0 -> priority: 1 
+  Thread -> id: 16c0 -> priority: 1 
